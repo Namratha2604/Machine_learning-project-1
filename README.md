@@ -85,3 +85,27 @@ The analysis revealed key insights about customer satisfaction:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/airline-satisfaction-analysis.git
+2. Navigate to the project
+   ```bash
+   cd airline-satisfaction-analysis
+3. Install the required dependencies
+   ```bash
+   pip install -r requirements.txt
+##Usage
+1. Upload the dataset (Invistico_Airline.csv) to the project directory.
+   
+2. Run the analysis script
+   ```bash
+   python analysis.py
+3. Visualizations and model results will be displayed in the console.
+
+##Contributing
+
+If you would like to contribute to this project, please fork the repository and create a pull request. Any contributions, issues, or feature requests are welcome!
+
+##License
+
+This project is licensed under the MIT License.
+
+Feel free to replace the placeholder URL for the GitHub repository (`your-username`) and adjust any other details as necessary.
+
