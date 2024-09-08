@@ -91,7 +91,7 @@ The analysis revealed key insights about customer satisfaction:
 3. Install the required dependencies
    ```bash
    pip install -r requirements.txt
-##Usage
+## Usage
 1. Upload the dataset (Invistico_Airline.csv) to the project directory.
    
 2. Run the analysis script
@@ -99,11 +99,11 @@ The analysis revealed key insights about customer satisfaction:
    python analysis.py
 3. Visualizations and model results will be displayed in the console.
 
-##Contributing
+## Contributing
 
 If you would like to contribute to this project, please fork the repository and create a pull request. Any contributions, issues, or feature requests are welcome!
 
-##License
+## License
 
 This project is licensed under the MIT License.
 
